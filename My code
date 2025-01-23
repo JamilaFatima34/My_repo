@@ -1,1 +1,2 @@
 console.writeline(234);
+console.ReadLine();
